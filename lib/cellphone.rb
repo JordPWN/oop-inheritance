@@ -1,0 +1,1 @@
+class Cellphone < Product; end
